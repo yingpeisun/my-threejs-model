@@ -161,7 +161,7 @@ function showData() {
     <dialog ref="floorPlanDialog" class="modal floor-plan">
       <iframe
         height="90%"
-        src="/file/三层Revit商务办公楼模型.pdf"
+        src="/file/Three-storey office building model.pdf"
         width="98%"
       ></iframe>
       <button class="btn" @click="floorPlanDialog.close()">Close</button>
